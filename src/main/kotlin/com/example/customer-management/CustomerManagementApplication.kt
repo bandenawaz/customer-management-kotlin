@@ -1,4 +1,4 @@
-package com.example.customer_management
+package com.example.customer-management
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
